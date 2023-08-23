@@ -1,0 +1,23 @@
+{
+  "name": "100-js-examples",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "example",
+  "main": "03.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanzalashaik/100-JS-Examples.git"
+  },
+  "author": "hanzala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanzalashaik/100-JS-Examples/issues"
+  },
+  "homepage": "https://github.com/Hanzalashaik/100-JS-Examples#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
