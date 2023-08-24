@@ -12,10 +12,10 @@ function random(a){
 }
 console.log(random(4));
 
-function random(b){
-    return Math.ceil(Math.random()*b)
-}
-console.log(random(4));
+// function random(b){
+//     return Math.ceil(Math.random()*b)
+// }
+// console.log(random(4));
 
 
 let k=4.4

@@ -1,8 +1,17 @@
-// import readline from "readline-sync"
+import readline from "readline-sync"
+import cli from "cli-color"
 
-// let base=readline.question("Enter Base :")
-// let height=readline.question("Enter height :")
-// let area=1/2*(base*height);
+let n=readline.question("Enter the number: ");
+let ran=Math.round(Math.random()*255)
+// console.log(ran);
 
-// console.log(`Area of a triangle is ${area}`);
+let color=cli.xterm(ran)
+function mul(n){
+    for(let i=1;i<=10;i++){
+        console.log(color(`${n} X ${i} =${n*i}`));
+        
+    }
+}
+
+mul(n)
 
