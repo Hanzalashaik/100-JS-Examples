@@ -16,3 +16,17 @@
 12. Javascript program to find the factorial of the given number.
 13. JavaScript program to print the multiplication table.
 14. JavaScript Program to Find the Sum of Natural Numbers.
+15. JavaScript Program to Check Whether a String is Palindrome or Not.
+16. JavaScript program to generate Fibonacci Series Up to n Terms | Fibonacci Sequence Up to a Certain Number.
+17. JavaScript Program to Check Armstrong Number.
+19. JavaScript Program to Make a Simple Calculator.
+20. JavaScript Program to Find HCF | using for Loop, using while Loop and if...else.
+21. JavaScript Program to Find LCM.
+22. JavaScript Program to Find the Factors of a Number.
+23. JavaScript Program to Guess a Random Number.
+24. JavaScript Program to Shuffle Deck of Cards.
+25. JavaScript Program to Find Sum of Natural Numbers Using Recursion.
+26. JavaScript Program to Display Fibonacci Sequence Using Recursion.
+27. JavaScript Program to Find Factorial of Number Using Recursion
+29. JavaScript Program to Find ASCII Value of Character.
+	
